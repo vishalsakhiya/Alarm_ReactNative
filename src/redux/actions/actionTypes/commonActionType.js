@@ -1,0 +1,17 @@
+// Define Common Action Type
+
+// get Time Zone
+export const REQUEST_GET_TIMEZONE = 'REQUEST_GET_TIMEZONE';
+export const RECEIVE_GET_TIMEZONE = 'RECEIVE_GET_TIMEZONE';
+
+// Set Time Zone
+export const REQUEST_SET_USER_DATA = 'REQUEST_SET_USER_DATA';
+export const RECEIVE_SET_USER_DATA = 'RECEIVE_SET_USER_DATA';
+
+// Add Alarm
+export const REQUEST_ADD_ALARM = "REQUEST_ADD_ALARM";
+export const RECEIVE_ADD_ALARM = "RECEIVE_ADD_ALARM";
+
+// Remove Alarm
+export const REQUEST_REMOVE_ALARM = "REQUEST_REMOVE_ALARM";
+export const RECEIVE_REMOVE_ALARM = "RECEIVE_REMOVE_ALARM";
